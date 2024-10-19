@@ -16,5 +16,5 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш_пользователь/ваш_репозиторий.git
-   cd ваш_репозиторий
+   git clone https://github.com/OctaviansSon/AiShymDecentrathon
+   cd [ваш_репозиторий]
