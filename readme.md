@@ -18,7 +18,7 @@
    ```bash
    git clone https://github.com/OctaviansSon/AiShymDecentrathon
    cd AiShymDecentrathon
-Установите зависимости:
+### 2.Установите зависимости:
 pip install -r req.txt
 Настройте базу данных и выполните необходимые миграции.
 Запустите бота:
