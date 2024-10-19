@@ -18,3 +18,14 @@
    ```bash
    git clone https://github.com/OctaviansSon/AiShymDecentrathon
    cd AiShymDecentrathon
+1. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/ваш_пользователь/ваш_репозиторий.git
+   cd ваш_репозиторий
+2.Установите зависимости:
+   ```bash
+   pip install -r req.txt
+   Настройте базу данных и выполните необходимые миграции.
+   Запустите бота: python bot4.py
+
+
